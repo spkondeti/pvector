@@ -13,7 +13,7 @@ This project uses the following:
 • ne <ne UDP Port number> <ConfigFile> 
 
 ### Instructions
-* ConfigFiles are included inside examples directory of this repo
+* ConfigFiles example is included in the repo (4_routers.conf)
 * Router ID's start from 0 (0 - 9 for 10 routers)
 * The simulation starts only after firing up all the routers specified in the ConfigFile
 * router<num>.log files will be created in the current directory (n log files for n routers)
